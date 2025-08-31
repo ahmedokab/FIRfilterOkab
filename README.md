@@ -25,9 +25,6 @@ As you can see FIR filter works as designed. BUT there is a delay due to it bein
 
 ---
 
-
-
----
 ##  Skills Demonstrated
 
 This project has helped me gain many skills such as:
@@ -36,10 +33,6 @@ This project has helped me gain many skills such as:
 - Verilog RTL coding and testbenching.  
 - Fixed-point representation and scaling.   
 - Python-based verification with NumPy and Matplotlib.  
-
-
----
-
 
 
 ---
