@@ -95,7 +95,7 @@ begin
             outputDataRegister  <= (b[0] * input_data + b[1]*samples[0]
              + b[2]*samples[1] +b[3]*samples[2]
               + b[4]*samples[3] + b[5]*samples[4]
-               + b[6]*samples[5] + b[7]*samples[6]) >>>7 ; // using formula to calculate output data based on current input data and previous input data
+               + b[6]*samples[5] + b[7]*samples[6]) ; // using formula to calculate output data based on current input data and previous input data
             // using values before the clock statement
             
             samples[0] <= input_data;
