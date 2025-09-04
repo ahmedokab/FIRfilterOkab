@@ -1,4 +1,4 @@
-# FIR Filter in Verilog with Python Simulation by Ahmed Okab!
+# FIR Filter in Verilog with Python Simulation by Ahmed Okab
 
 
 This project implements an **8-tap finite impulse response (FIR) filter** in Verilog, validating it using a Python testbench pipeline. The design demonstrates how to produce a working digital signal processing (DSP) system, helping me learn alot on how to manage Verilog code, python libraries, and also making testbenches in verilog!
